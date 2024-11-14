@@ -1,4 +1,3 @@
-cd IndexRx
 python -m venv .venv
 source C:\\Users\\rodry\\Desktop\\IndexRx\\.venv\\Scripts\\activate
 C:\Users\rodry\Desktop\IndexRx\.venv\Scripts\python.exe -m pip install --upgrade pip

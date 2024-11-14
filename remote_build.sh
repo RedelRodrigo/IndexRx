@@ -1,5 +1,5 @@
 python -m venv .venv
-source C:\\Users\\rodry\\Desktop\\IndexRx\\.venv\\Scripts\\activate
+source .venv/Scripts/activate
 C:\Users\rodry\Desktop\IndexRx\.venv\Scripts\python.exe -m pip install --upgrade pip
 pip install -r requirements.txt
 rm -rf public

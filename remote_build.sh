@@ -1,6 +1,6 @@
 python -m venv .venv
 source .venv\\Scripts\\activate
-C:\Users\rodry\Desktop\IndexRx\.venv\Scripts\python.exe -m pip install --upgrade pip
+C:\\Users\\rodry\\Desktop\\IndexRx\\.venv\\Scripts\\python.exe -m pip install --upgrade pip
 pip install -r requirements.txt
 rm -rf public
 reflex init

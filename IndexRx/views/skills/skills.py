@@ -70,7 +70,7 @@ def skills() -> rx.Component:
                             border_radius = "20px"
                         ),
                     rx.box(
-                            rx.avatar(src="https://img.icons8.com/?size=256&id=hCWb1IvpcBZ0&format=png",
+                            rx.avatar(src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png",
                                       height = "100%",
                                       width = "100%",
                                       padding = "5px"),

@@ -34,7 +34,9 @@ def exp() -> rx.Component:
                             rx.text("Escuela Nacional de Educación Técnica N°1",
                                     font_weight = "400"),
                             rx.text("2013 - 2020",
-                                    font_weight = "200")
+                                    font_weight = "200"),
+                            
+                            align="center"
                            
                     ),
                         rx.vstack(
@@ -45,7 +47,8 @@ def exp() -> rx.Component:
                                     font_weight = "400"),
                             rx.text("Febrero 2024 - Julio 2024",
                                     font_weight = "200"),
-                           margin_top = "3%"
+                           margin_top = "3%",
+                           align="center"
                     ),
                         rx.vstack(
                             
@@ -55,7 +58,8 @@ def exp() -> rx.Component:
                                     font_weight = "400"),
                             rx.text(" Marzo 2024 - Diciembre 2025",
                                     font_weight = "200"),
-                           margin_top = "3%"
+                           margin_top = "3%",
+                           align="center"
                     ),
                          margin_top = "2%",
                         value="Edu"
@@ -73,7 +77,7 @@ def exp() -> rx.Component:
                             rx.text("En actividad",
                                     font_weight = "200"),
                             
-                            align="end"
+                            align="center"
                            
                     ),
                         rx.vstack(
@@ -86,7 +90,7 @@ def exp() -> rx.Component:
                                     font_weight = "200"),
                            
                            margin_top = "3%",
-                           align="end"
+                           align="center"
                     ),
                         rx.vstack(
                             
@@ -98,7 +102,7 @@ def exp() -> rx.Component:
                                     font_weight = "200"),
                            
                            margin_top = "3%",
-                           align="end"
+                           align="center"
                     ),
                             
                             margin_top = "2%",

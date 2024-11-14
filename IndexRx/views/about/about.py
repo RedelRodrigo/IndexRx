@@ -36,7 +36,7 @@ def about() -> rx.Component:
                     ),
                     rx.button("Download CV",
                               rx.icon("download"),
-                              on_click=rx.download(url="/IndexRx/assets/CV Redel Rodrigo ACT.pdf"),
+                              on_click=rx.download(url="/CV Redel Rodrigo ACT.pdf"),
                               color_scheme="purple",
                               height = "58px",
                               border_radius = "15px",

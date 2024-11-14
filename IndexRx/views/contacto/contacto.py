@@ -80,5 +80,6 @@ def contacto() -> rx.Component:
         
          width = "100%",
          align="center",
-         margin_top = "5%"
+         margin_top = "5%",
+         id = "Contacto"
     )

@@ -12,7 +12,8 @@ def portfolio() -> rx.Component:
         rx.text("Repositorios en GitHub de algunos de mis trabajos",
                 font_weight = "200",
                 margin_top = "3%",
-                font_size = "1.5rem",),
+                font_size = "1.5rem",
+                align="center"),
         
         rx.link(rx.image(src="/github.png",
                         width = 210,
@@ -22,7 +23,9 @@ def portfolio() -> rx.Component:
                         ),
                 
                 href="https://github.com/RedelRodrigo?tab=repositories",
-                margin_top = "3%"
+                margin_top = "3%",
+                is_external=True
+                
                 
                 ),
         

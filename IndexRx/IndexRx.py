@@ -2,17 +2,17 @@ import reflex as rx
 import rxconfig
 
 #styles:
-from IndexRx.styles.general import style
+from indexrx.styles.general import style
 
 #components:
-from IndexRx.components.navbar import navbar
-from IndexRx.views.header.headers import headers
-from IndexRx.views.about.about import about
-from IndexRx.views.skills.skills import skills
-from IndexRx.views.XP.xp import exp
-from IndexRx.views.portfolio.portfolio import portfolio
-from IndexRx.views.contacto.contacto import contacto
-from IndexRx.views.footer.footer import footer
+from indexrx.components.navbar import navbar
+from indexrx.views.header.headers import headers
+from indexrx.views.about.about import about
+from indexrx.views.skills.skills import skills
+from indexrx.views.XP.xp import exp
+from indexrx.views.portfolio.portfolio import portfolio
+from indexrx.views.contacto.contacto import contacto
+from indexrx.views.footer.footer import footer
 
 
 
